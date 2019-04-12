@@ -1,13 +1,11 @@
 <template>
   <div>
-    <h1>Showing event #{{ id }}</h1>
+    <h1>NotFound 404 Error</h1>
   </div>
 </template>
 
 <script>
-export default {
-  props: ['id']
-}
+export default {}
 </script>
 
 <style lang="scss" scoped></style>
