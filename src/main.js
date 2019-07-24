@@ -5,6 +5,7 @@ import store from './store'
 import upperFirst from 'lodash/upperFirst'
 import camelCase from 'lodash/camelCase'
 
+// test
 // Vue.component('BaseIcon', BaseIcon)
 
 const requireComponent = require.context(
