@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"playgroundvue6a3679fb": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

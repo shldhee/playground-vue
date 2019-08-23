@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "playground-vue-dev-20190823175912-authRole",
+            "UnauthRoleArn": "arn:aws:iam::036341436494:role/playground-vue-dev-20190823175912-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::036341436494:role/playground-vue-dev-20190823175912-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "playground-vue-dev-20190823175912-deployment",
+            "UnauthRoleName": "playground-vue-dev-20190823175912-unauthRole",
+            "StackName": "playground-vue-dev-20190823175912",
+            "StackId": "arn:aws:cloudformation:us-east-1:036341436494:stack/playground-vue-dev-20190823175912/47437930-c584-11e9-8c25-1273bfab49fc"
+        },
+        "categories": {
+            "auth": {
+                "playgroundvue6a3679fb": {}
+            }
+        }
+    }
+}
